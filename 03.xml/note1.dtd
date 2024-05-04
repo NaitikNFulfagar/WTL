@@ -1,0 +1,5 @@
+<!ELEMENT note1
+(id,firstname,lastname)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>

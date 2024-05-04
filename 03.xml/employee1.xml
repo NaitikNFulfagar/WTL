@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE note SYSTEM "note1.dtd">
+<note1>
+<id>393</id>
+<firstname>abc</firstname>
+<lastname>xyz</lastname>
+<designation>CEO</designation>
+<id>493</id>
+<firstname>pqr</firstname>
+<lastname>lmn</lastname>
+<designation>Software Engineer</designation>
+<id>571</id>
+<firstname>egf</firstname>
+<lastname>tuv</lastname>
+<designation>Project Manager</designation>
+
+</note1>
